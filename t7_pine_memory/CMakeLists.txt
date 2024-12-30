@@ -1,0 +1,1 @@
+add_executable(t7_pine_memory pine_memory.cu)

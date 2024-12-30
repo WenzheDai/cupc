@@ -1,0 +1,1 @@
+add_executable(t2_grid_block grid_block.cu)

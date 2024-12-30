@@ -1,0 +1,1 @@
+add_executable(t8_zero_copy_memory zero_copy_memory.cu)

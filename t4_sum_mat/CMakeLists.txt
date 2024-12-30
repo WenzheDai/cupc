@@ -1,0 +1,1 @@
+add_executable(t4_sum_mat sum_mat.cu)

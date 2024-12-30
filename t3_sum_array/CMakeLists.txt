@@ -1,0 +1,1 @@
+add_executable(t3_sum_array sum_array.cu)

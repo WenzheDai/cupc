@@ -1,0 +1,24 @@
+# ninja log v6
+783	843	1733209895921133602	t1_check_dimension/t1_check_dimension	26f1f86e0df2f30c
+789	848	1733209895927800227	t0_hello/t0_hello	b7e5f9af53e858b1
+3	1482	1734925451267564128	t5_reduceInteger/CMakeFiles/t5_reduceInteger.dir/reduceInteger.cu.o	8a16aa8fe6129da3
+2	1432	1735033105748527799	t8_zero_copy_memory/CMakeFiles/t8_zero_copy_memory.dir/zero_copy_memory.cu.o	1d14b28d114f5792
+1	789	1733209895141138419	t0_hello/CMakeFiles/t0_hello.dir/hello.cu.o	4fc2a8d3cdcea14
+2	783	1733209895141138419	t1_check_dimension/CMakeFiles/t1_check_dimension.dir/check_dimension.cu.o	eb6baf3c40f5165c
+3	1371	1733297445639632192	t3_sum_array/CMakeFiles/t3_sum_array.dir/sum_array.cu.o	382930fb73c39155
+1482	1534	1734925452744215242	t5_reduceInteger/t5_reduceInteger	7c3a77ef2403ef2d
+1275	1329	1733733303236748530	t4_sum_mat/t4_sum_mat	938e95555d6a1ab6
+1336	1389	1735033340266216553	t9_UVA/t9_UVA	1d7f8d9cf0abf0f7
+2	1336	1735033338932895638	t9_UVA/CMakeFiles/t9_UVA.dir/uva.cu.o	2f7399cd1de68dcc
+750	808	1733209895887800475	t2_grid_block/t2_grid_block	12ef4a13a5349376
+3	830	1734925451267564128	t6_checkGlobalVariable/CMakeFiles/t6_checkGlobalVariable.dir/checkGlobalVariable.cu.o	fb955e8120781313
+830	886	1734925452094222086	t6_checkGlobalVariable/t6_checkGlobalVariable	2e860903cc11e8ff
+1	48	1735122035839936954	build.ninja	fcff950db0e66d75
+1433	1483	1735033107178512806	t8_zero_copy_memory/t8_zero_copy_memory	f1dc02e344e94125
+2	750	1733209895141138419	t2_grid_block/CMakeFiles/t2_grid_block.dir/grid_block.cu.o	f67f1668362e249e
+1334	1387	1733731647689244205	t_tid/t_tid	c75c39a0b604626e
+2	1458	1734947846808661246	t7_pine_memory/CMakeFiles/t7_pine_memory.dir/pine_memory.cu.o	b7af778d2033ab8a
+1371	1431	1733297447009625306	t3_sum_array/t3_sum_array	6cb7e55c773fe04c
+2	1275	1733733301963424046	t4_sum_mat/CMakeFiles/t4_sum_mat.dir/sum_mat.cu.o	da768262cc758ccb
+1	1334	1733731646355917307	t_tid/CMakeFiles/t_tid.dir/tid.cu.o	4aa0a5318bfc5e8c
+1458	1513	1734947848265326376	t7_pine_memory/t7_pine_memory	f53e501f8613b2a5

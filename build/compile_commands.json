@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t0_hello/hello.cu -o t0_hello/CMakeFiles/t0_hello.dir/hello.cu.o",
+  "file": "/home/dwz/my-work/cupc/t0_hello/hello.cu",
+  "output": "t0_hello/CMakeFiles/t0_hello.dir/hello.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t1_check_dimension/check_dimension.cu -o t1_check_dimension/CMakeFiles/t1_check_dimension.dir/check_dimension.cu.o",
+  "file": "/home/dwz/my-work/cupc/t1_check_dimension/check_dimension.cu",
+  "output": "t1_check_dimension/CMakeFiles/t1_check_dimension.dir/check_dimension.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t2_grid_block/grid_block.cu -o t2_grid_block/CMakeFiles/t2_grid_block.dir/grid_block.cu.o",
+  "file": "/home/dwz/my-work/cupc/t2_grid_block/grid_block.cu",
+  "output": "t2_grid_block/CMakeFiles/t2_grid_block.dir/grid_block.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t3_sum_array/sum_array.cu -o t3_sum_array/CMakeFiles/t3_sum_array.dir/sum_array.cu.o",
+  "file": "/home/dwz/my-work/cupc/t3_sum_array/sum_array.cu",
+  "output": "t3_sum_array/CMakeFiles/t3_sum_array.dir/sum_array.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t_tid/tid.cu -o t_tid/CMakeFiles/t_tid.dir/tid.cu.o",
+  "file": "/home/dwz/my-work/cupc/t_tid/tid.cu",
+  "output": "t_tid/CMakeFiles/t_tid.dir/tid.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t4_sum_mat/sum_mat.cu -o t4_sum_mat/CMakeFiles/t4_sum_mat.dir/sum_mat.cu.o",
+  "file": "/home/dwz/my-work/cupc/t4_sum_mat/sum_mat.cu",
+  "output": "t4_sum_mat/CMakeFiles/t4_sum_mat.dir/sum_mat.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t5_reduceInteger/reduceInteger.cu -o t5_reduceInteger/CMakeFiles/t5_reduceInteger.dir/reduceInteger.cu.o",
+  "file": "/home/dwz/my-work/cupc/t5_reduceInteger/reduceInteger.cu",
+  "output": "t5_reduceInteger/CMakeFiles/t5_reduceInteger.dir/reduceInteger.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t6_checkGlobalVariable/checkGlobalVariable.cu -o t6_checkGlobalVariable/CMakeFiles/t6_checkGlobalVariable.dir/checkGlobalVariable.cu.o",
+  "file": "/home/dwz/my-work/cupc/t6_checkGlobalVariable/checkGlobalVariable.cu",
+  "output": "t6_checkGlobalVariable/CMakeFiles/t6_checkGlobalVariable.dir/checkGlobalVariable.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t7_pine_memory/pine_memory.cu -o t7_pine_memory/CMakeFiles/t7_pine_memory.dir/pine_memory.cu.o",
+  "file": "/home/dwz/my-work/cupc/t7_pine_memory/pine_memory.cu",
+  "output": "t7_pine_memory/CMakeFiles/t7_pine_memory.dir/pine_memory.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t8_zero_copy_memory/zero_copy_memory.cu -o t8_zero_copy_memory/CMakeFiles/t8_zero_copy_memory.dir/zero_copy_memory.cu.o",
+  "file": "/home/dwz/my-work/cupc/t8_zero_copy_memory/zero_copy_memory.cu",
+  "output": "t8_zero_copy_memory/CMakeFiles/t8_zero_copy_memory.dir/zero_copy_memory.cu.o"
+},
+{
+  "directory": "/home/dwz/my-work/cupc/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -I/home/dwz/my-work/cupc/include -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/dwz/my-work/cupc/t9_UVA/uva.cu -o t9_UVA/CMakeFiles/t9_UVA.dir/uva.cu.o",
+  "file": "/home/dwz/my-work/cupc/t9_UVA/uva.cu",
+  "output": "t9_UVA/CMakeFiles/t9_UVA.dir/uva.cu.o"
+}
+]

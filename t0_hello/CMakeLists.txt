@@ -1,0 +1,1 @@
+add_executable(t0_hello hello.cu)

@@ -1,0 +1,1 @@
+/usr/bin/g++-13 -Wl,--dependency-file,CMakeFiles/hello_1.dir/link.d @CMakeFiles/hello_1.dir/objects1.rsp -o hello_1 @CMakeFiles/hello_1.dir/linkLibs.rsp -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"

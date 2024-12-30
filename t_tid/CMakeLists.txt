@@ -1,0 +1,1 @@
+add_executable(t_tid tid.cu)

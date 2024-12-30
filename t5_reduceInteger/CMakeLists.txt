@@ -1,0 +1,1 @@
+add_executable(t5_reduceInteger reduceInteger.cu)

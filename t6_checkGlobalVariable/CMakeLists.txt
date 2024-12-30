@@ -1,0 +1,1 @@
+add_executable(t6_checkGlobalVariable checkGlobalVariable.cu)
