@@ -1,0 +1,1 @@
+add_executable(t12_uniform_memory_managed uniform_memory_managed.cu)

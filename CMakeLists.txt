@@ -22,5 +22,7 @@ add_subdirectory(t6_checkGlobalVariable)
 add_subdirectory(t7_pine_memory)
 add_subdirectory(t8_zero_copy_memory)
 add_subdirectory(t9_UVA)
+add_subdirectory(t11_transformmat)
+add_subdirectory(t12_uniform_memory_managed)
 
 
