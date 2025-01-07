@@ -1,0 +1,1 @@
+add_executable(t13_share_memory_read_data share_memory_read_data.cu)
